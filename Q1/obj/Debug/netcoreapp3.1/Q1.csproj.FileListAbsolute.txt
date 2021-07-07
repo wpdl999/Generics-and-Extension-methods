@@ -1,0 +1,15 @@
+D:\school - 4th semesters\COMP212 - Programming 3 - 002\Lab\Lab1\301098673(Moon)_Lab#1\Solution4Lab1\Q1\bin\Debug\netcoreapp3.1\Q1.exe
+D:\school - 4th semesters\COMP212 - Programming 3 - 002\Lab\Lab1\301098673(Moon)_Lab#1\Solution4Lab1\Q1\bin\Debug\netcoreapp3.1\Q1.deps.json
+D:\school - 4th semesters\COMP212 - Programming 3 - 002\Lab\Lab1\301098673(Moon)_Lab#1\Solution4Lab1\Q1\bin\Debug\netcoreapp3.1\Q1.runtimeconfig.json
+D:\school - 4th semesters\COMP212 - Programming 3 - 002\Lab\Lab1\301098673(Moon)_Lab#1\Solution4Lab1\Q1\bin\Debug\netcoreapp3.1\Q1.runtimeconfig.dev.json
+D:\school - 4th semesters\COMP212 - Programming 3 - 002\Lab\Lab1\301098673(Moon)_Lab#1\Solution4Lab1\Q1\bin\Debug\netcoreapp3.1\Q1.dll
+D:\school - 4th semesters\COMP212 - Programming 3 - 002\Lab\Lab1\301098673(Moon)_Lab#1\Solution4Lab1\Q1\bin\Debug\netcoreapp3.1\Q1.pdb
+D:\school - 4th semesters\COMP212 - Programming 3 - 002\Lab\Lab1\301098673(Moon)_Lab#1\Solution4Lab1\Q1\obj\Debug\netcoreapp3.1\Q1.csprojAssemblyReference.cache
+D:\school - 4th semesters\COMP212 - Programming 3 - 002\Lab\Lab1\301098673(Moon)_Lab#1\Solution4Lab1\Q1\obj\Debug\netcoreapp3.1\Q1.Form1.resources
+D:\school - 4th semesters\COMP212 - Programming 3 - 002\Lab\Lab1\301098673(Moon)_Lab#1\Solution4Lab1\Q1\obj\Debug\netcoreapp3.1\Q1.csproj.GenerateResource.cache
+D:\school - 4th semesters\COMP212 - Programming 3 - 002\Lab\Lab1\301098673(Moon)_Lab#1\Solution4Lab1\Q1\obj\Debug\netcoreapp3.1\Q1.AssemblyInfoInputs.cache
+D:\school - 4th semesters\COMP212 - Programming 3 - 002\Lab\Lab1\301098673(Moon)_Lab#1\Solution4Lab1\Q1\obj\Debug\netcoreapp3.1\Q1.AssemblyInfo.cs
+D:\school - 4th semesters\COMP212 - Programming 3 - 002\Lab\Lab1\301098673(Moon)_Lab#1\Solution4Lab1\Q1\obj\Debug\netcoreapp3.1\Q1.csproj.CoreCompileInputs.cache
+D:\school - 4th semesters\COMP212 - Programming 3 - 002\Lab\Lab1\301098673(Moon)_Lab#1\Solution4Lab1\Q1\obj\Debug\netcoreapp3.1\Q1.dll
+D:\school - 4th semesters\COMP212 - Programming 3 - 002\Lab\Lab1\301098673(Moon)_Lab#1\Solution4Lab1\Q1\obj\Debug\netcoreapp3.1\Q1.pdb
+D:\school - 4th semesters\COMP212 - Programming 3 - 002\Lab\Lab1\301098673(Moon)_Lab#1\Solution4Lab1\Q1\obj\Debug\netcoreapp3.1\Q1.genruntimeconfig.cache

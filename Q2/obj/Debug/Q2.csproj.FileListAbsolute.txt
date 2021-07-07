@@ -1,0 +1,7 @@
+D:\school - 4th semesters\COMP212 - Programming 3 - 002\Lab\Lab1\301098673(Moon)_Lab#1\Solution4Lab1\Q2\bin\Debug\Q2.exe.config
+D:\school - 4th semesters\COMP212 - Programming 3 - 002\Lab\Lab1\301098673(Moon)_Lab#1\Solution4Lab1\Q2\bin\Debug\Q2.exe
+D:\school - 4th semesters\COMP212 - Programming 3 - 002\Lab\Lab1\301098673(Moon)_Lab#1\Solution4Lab1\Q2\bin\Debug\Q2.pdb
+D:\school - 4th semesters\COMP212 - Programming 3 - 002\Lab\Lab1\301098673(Moon)_Lab#1\Solution4Lab1\Q2\obj\Debug\Q2.csprojAssemblyReference.cache
+D:\school - 4th semesters\COMP212 - Programming 3 - 002\Lab\Lab1\301098673(Moon)_Lab#1\Solution4Lab1\Q2\obj\Debug\Q2.csproj.CoreCompileInputs.cache
+D:\school - 4th semesters\COMP212 - Programming 3 - 002\Lab\Lab1\301098673(Moon)_Lab#1\Solution4Lab1\Q2\obj\Debug\Q2.exe
+D:\school - 4th semesters\COMP212 - Programming 3 - 002\Lab\Lab1\301098673(Moon)_Lab#1\Solution4Lab1\Q2\obj\Debug\Q2.pdb
