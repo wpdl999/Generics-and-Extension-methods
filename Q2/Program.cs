@@ -19,7 +19,6 @@ namespace Q2
             Console.WriteLine("Number of words " +"'" +sb +  "' is " + WordCount(sb));
 
             Console.ReadKey();
-
         }
     }
 }
